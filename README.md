@@ -14,4 +14,4 @@ Take 1 AC Lamp, a uController, a normal LED bulb and some color LED strips to ge
  * 1 × w550io or ESP8266 SPI network interface
 
 
-![Hackaday project page](https://hackaday.io/project/5667-smart-lamp-notification)
+[Hackaday project page](http://hackaday.io/project/5667-smart-lamp-notification)
